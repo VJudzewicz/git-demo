@@ -1,0 +1,23 @@
+[33mcommit eef6018f598be512314b4cbef133e01c72dba7d3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Valentina Judzewicz <yww_777@mail.ru>
+Date:   Tue Mar 12 15:55:48 2019 +0400
+
+    add two more lines to the text file again
+
+[33mcommit 8cf97ea942f98f9768ed92c75ea93fd25629e626[m
+Author: VJudzewicz <48475972+VJudzewicz@users.noreply.github.com>
+Date:   Tue Mar 12 15:30:07 2019 +0300
+
+    add two more lines to the text file
+
+[33mcommit 7589244721b53967ec3d4a1e9e195fde74e3d754[m
+Author: Valentina Judzewicz <yww_777@mail.ru>
+Date:   Tue Mar 12 15:27:19 2019 +0400
+
+    add first 2 lines in the text file
+
+[33mcommit dc509e41766faaa86094aaf1431cb9f669009efc[m
+Author: VJudzewicz <48475972+VJudzewicz@users.noreply.github.com>
+Date:   Tue Mar 12 14:05:52 2019 +0300
+
+    Initial commit
